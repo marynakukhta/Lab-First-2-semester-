@@ -1,0 +1,57 @@
+Гайдай Ярослав
+VK
+Use Case Diagram:
+•	Назви Use Cases є доволі зрозумілими, в глосарії описані всі важливі поняття.
+•	Діаграма включає не всі важливі сценарії соц. мережі.(можливість поставити лайк, переглянути відео, функціональність сторінки користувача не повна).
+•	Не вказані типи зв’язку між деякими use cases.
+•	Було б не зайвим додати коментарі до Use Cases які включають обширу функціональність.(View user page, sittings, make post)
+Загалом можна зрозуміти яку функціональність матиме користувач того чи іншого типу.(Guest/abstract/registered )
+
+Activity confirm creation of group diagram:
+•	Діаграма описує тільки перший етап створення групи, функціональність не розкрита.
+
+Activity create brand organization, activity create general group, activity create group, activity create interest group:
+•	Не є доцільним використовувати велику кількість діаграм для опису процесу створення групи.
+•	Загалом вдалося детально відобразити функціональність .
+
+Activity edit song:
+•	Все лаконічно та зрозуміло.
+•	Відображені важливі типи Use Cases з Use Case діаграм.
+
+State, sequence suggest post, package, composite structure diagrams:
+•	Все лаконічно та зрозуміло.
+
+Object diagram:
+•	Відповідає архітектурі Class Diagram
+•	Створені об'єкти відповідних класів та показані зв'язки між ними.
+
+Class Diagram:
+•	Відображені всі можливості з Use Case diagram.
+•	Через неповноту глосарія важко зрозуміти деякі аспекти.
+•	Взаємодія між класами побудована добре. 
+
+Гончарук Ангеліна
+Twitter
+Use Case:
+•	Відображено більшість основних сценаріїв .
+•	Відсутні «extend» зв’язки.
+•	Зв’язок «include» між «Check lists» – «Subscribed to»  та «Check lists» –«Member of» скоріш за все має бути «extend».
+
+Activity Diagram Sign Up, Activity Diagram Sing In, Activity Diagram Message, Activity Diagram Tweet, Activity Diagram Search:
+•	На більшості діаграмах присутні коментарі, що сприяє їх розумінню.
+•	Відображені важливі типи Use Cases з Use Case діаграм.
+
+Class Diagram:
+•	Не вказана кратність між класами.
+•	Методи видалення твітів, коментарів та повідомлень не вказані.
+
+Object Diagram:
+•	Відповідає Class Diagram.
+
+Sequence Diagram Go To Account Via Link/Search User:
+•	Використання класів Server, Guest та Web Page що не були вказані в Class Diagram.
+•	Діаграми не зовсім зрозуміла(на моментах «Send result»). 
+•	Потребує більш детального опису.
+
+
+
